@@ -31,4 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Architecture docs (not pushed yet) ###
 /agent/**
